@@ -1,6 +1,4 @@
 # Brawl-Stars-Clone
-<h1 align = "center"> 
-Brawlstars Clone </h1>
 
 ------------------------------------------------------------------------------------
 ## Description
